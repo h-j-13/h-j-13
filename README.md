@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [h-j-13](https://github.com/h-j-13) 👋
+
+[![h-j-13's github stats](https://github-readme-stats.vercel.app/api?username=h-j-13)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **h-j-13/h-j-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
